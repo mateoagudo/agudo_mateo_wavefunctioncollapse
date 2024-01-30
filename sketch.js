@@ -1,5 +1,5 @@
 const celdas = [];
-const RETICULA = 16;
+const RETICULA = 4;
 let ancho; //ancho de la celda
 let alto; //alto de la celda
 
